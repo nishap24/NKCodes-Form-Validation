@@ -77,6 +77,9 @@ Note: The JavaScript code can be updated to provide more specific alerts or addi
 
 - Form submission success alert.
 
+## Deployment Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/94c7b093-9a5f-40d2-a434-1b8f4d242281/deploy-status)](https://app.netlify.com/sites/kanasu-form-validation/deploys)
 
 ## Contributing
 
